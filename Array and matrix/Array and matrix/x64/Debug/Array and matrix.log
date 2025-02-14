@@ -1,0 +1,5 @@
+﻿  Matrix.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\Administrator\source\repos\Array and matrix\Array and matrix\Matrix.cpp(41): warning C4717: 'Matrix::Matrix': recursive on all control paths, function will cause runtime stack overflow
+  Array and matrix.vcxproj -> C:\Users\Administrator\source\repos\Array and matrix\x64\Debug\Array and matrix.exe
