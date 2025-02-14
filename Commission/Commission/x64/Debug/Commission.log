@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2019: unresolved external symbol "public: __cdecl CommissionEmployee::CommissionEmployee(class String const &,class String const &,class String const &,double,double)" (??0CommissionEmployee@@QEAA@AEBVString@@00NN@Z) referenced in function main
+C:\Users\Administrator\source\repos\Commission\x64\Debug\Commission.exe : fatal error LNK1120: 1 unresolved externals
