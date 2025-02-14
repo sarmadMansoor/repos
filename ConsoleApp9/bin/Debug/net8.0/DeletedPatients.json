@@ -1,0 +1,6 @@
+{"PatientId":1,"Name":"John Smith","Email":"john@example.com","Disease":"Flu","DeletedDate":"2024-10-05T15:02:01.6262586+05:00"}
+{"PatientId":1,"Name":"John Smith","Email":"john@example.com","Disease":"Flu","DeletedDate":"2024-10-05T15:02:52.4485701+05:00"}
+{"PatientId":1,"Name":"John Smith","Email":"john@example.com","Disease":"Flu","DeletedDate":"2024-10-05T15:04:16.7587566+05:00"}
+{"DoctorId":1002,"Name":"Dr. Alice Johnson","Specialization":"Pediatrics","DeletedDate":"2024-10-05T15:11:44.3364006+05:00"}
+{"DoctorId":1003,"Name":"Dr. Alice Johnson","Specialization":"Pediatrics","DeletedDate":"2024-10-05T15:11:54.2239986+05:00"}
+{"DoctorId":1004,"Name":"Dr. Alice Johnson","Specialization":"Pediatrics","DeletedDate":"2024-10-05T15:12:05.5761327+05:00"}

@@ -1,0 +1,17 @@
+{"Patient":{"PatientId":1,"Name":"John Smith","Email":"john@example.com","Disease":"Flu"},"Timestamp":"2024-10-05T19:10:30.3120738+05:00"}
+{"Patient":{"PatientId":2,"Name":"ali","Email":"ali@gmail.com","Disease":"aids"},"Timestamp":"2024-10-05T19:18:06.5423312+05:00"}
+{"Patient":{"PatientId":3,"Name":"sarmad","Email":"sarmad@gmail.com","Disease":"oooo"},"Timestamp":"2024-10-05T19:21:33.3342864+05:00"}
+{"Patient":{"PatientId":3,"Name":"sarmad","Email":"sarmad@gmail.com","Disease":"oooo"},"Timestamp":"2024-10-05T20:09:18.6333742+05:00"}
+{"Patient":{"PatientId":4,"Name":"sajid","Email":"sajid@gmail.com","Disease":"iiii"},"Timestamp":"2024-10-05T20:09:49.4107693+05:00"}
+{"Doctor":{"DoctorId":1006,"Name":"anas","Specialization":"lung"},"Timestamp":"2024-10-05T20:13:13.7078513+05:00"}
+{"Patient":{"PatientId":1002,"Name":"ali","Email":"ali@gmail.com","Disease":"flu"},"Timestamp":"2024-10-06T11:30:46.5694973+05:00"}
+{"Patient":{"PatientId":2002,"Name":"usman","Email":"usman@gmail.com","Disease":"flu"},"Timestamp":"2024-10-06T11:30:54.9253408+05:00"}
+{"Doctor":{"DoctorId":1005,"Name":"Dr. Alice Johnson","Specialization":"Pediatrics"},"Timestamp":"2024-10-06T11:32:03.99742+05:00"}
+{"Doctor":{"DoctorId":2002,"Name":"Hassan ALi","Specialization":"lungs"},"Timestamp":"2024-10-06T11:32:15.3244691+05:00"}
+{"Doctor":{"DoctorId":2003,"Name":"zaeem","Specialization":"brain"},"Timestamp":"2024-10-06T11:32:58.0806007+05:00"}
+{"Doctor":{"DoctorId":1,"Name":"Dr. Alice Williams","Specialization":"Pediatrics"},"Timestamp":"2024-10-06T11:33:04.9693991+05:00"}
+{"Doctor":{"DoctorId":2,"Name":"Dr. Ali Smith","Specialization":"Liver"},"Timestamp":"2024-10-06T11:33:07.2430325+05:00"}
+{"Doctor":{"DoctorId":2,"Name":"Chetta","Specialization":"skin"},"Timestamp":"2024-10-08T17:14:41.4351918+05:00"}
+{"Patient":{"PatientId":1,"Name":"anas","Email":"anas@gmail.com","Disease":"flu"},"Timestamp":"2024-10-08T17:38:49.3426412+05:00"}
+{"Patient":{"PatientId":2,"Name":"ali","Email":"ali@gmail.com","Disease":"flu"},"Timestamp":"2024-10-08T21:13:07.255689+05:00"}
+{"Patient":{"PatientId":3,"Name":"sajid","Email":"sajid@gmail.com","Disease":"flu"},"Timestamp":"2025-01-01T14:36:18.5738256+05:00"}

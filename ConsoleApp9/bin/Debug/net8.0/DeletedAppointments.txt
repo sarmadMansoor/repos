@@ -1,0 +1,14 @@
+{"Appointment":{"AppointmentId":2,"PatientId":1,"DoctorId":1,"AppointmentDate":"2024-10-06T15:14:34.747"},"Timestamp":"2024-10-05T17:34:34.7010309+05:00"}
+{"Appointment":{"AppointmentId":3,"PatientId":1,"DoctorId":2,"AppointmentDate":"2024-10-10T00:00:00"},"Timestamp":"2024-10-05T19:10:30.1873112+05:00"}
+{"Appointment":{"AppointmentId":4,"PatientId":1,"DoctorId":1,"AppointmentDate":"2024-10-10T00:00:00"},"Timestamp":"2024-10-05T19:10:30.3059089+05:00"}
+{"Appointment":{"AppointmentId":7,"PatientId":2,"DoctorId":1,"AppointmentDate":"2024-10-10T00:00:00"},"Timestamp":"2024-10-05T19:18:06.4423057+05:00"}
+{"Appointment":{"AppointmentId":8,"PatientId":2,"DoctorId":2,"AppointmentDate":"2024-10-10T00:00:00"},"Timestamp":"2024-10-05T19:18:06.5368958+05:00"}
+{"Appointment":{"AppointmentId":10,"PatientId":3,"DoctorId":2,"AppointmentDate":"2024-10-10T00:00:00"},"Timestamp":"2024-10-05T20:09:18.5630281+05:00"}
+{"Appointment":{"AppointmentId":11,"PatientId":3,"DoctorId":2,"AppointmentDate":"2024-10-10T00:00:00"},"Timestamp":"2024-10-05T20:09:18.6255443+05:00"}
+{"Appointment":{"AppointmentId":12,"PatientId":3,"DoctorId":2,"AppointmentDate":"2024-10-10T00:00:00"},"Timestamp":"2024-10-05T20:09:18.6288415+05:00"}
+{"Appointment":{"AppointmentId":1002,"PatientId":1002,"DoctorId":2,"AppointmentDate":"2024-11-11T13:31:00"},"Timestamp":"2024-10-06T11:04:51.8611607+05:00"}
+{"Appointment":{"AppointmentId":2,"PatientId":1,"DoctorId":2,"AppointmentDate":"2024-11-11T13:32:00"},"Timestamp":"2024-10-08T17:14:41.3355932+05:00"}
+{"Appointment":{"AppointmentId":1,"PatientId":1,"DoctorId":1,"AppointmentDate":"2024-11-11T14:32:00"},"Timestamp":"2024-10-08T17:38:49.2658037+05:00"}
+{"Appointment":{"AppointmentId":1001,"PatientId":1,"DoctorId":1,"AppointmentDate":"2024-12-12T13:32:00"},"Timestamp":"2024-10-08T17:38:49.3387496+05:00"}
+{"Appointment":{"AppointmentId":2001,"PatientId":3,"DoctorId":1,"AppointmentDate":"2024-11-11T14:32:00"},"Timestamp":"2025-01-01T14:36:18.4593966+05:00"}
+{"Appointment":{"AppointmentId":4001,"PatientId":3,"DoctorId":1,"AppointmentDate":"2025-12-12T00:00:00"},"Timestamp":"2025-01-01T14:36:18.5679783+05:00"}
