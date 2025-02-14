@@ -1,0 +1,12 @@
+D:\repos\HospitalManagementDAL\bin\Debug\net8.0\HospitalManagementDAL.deps.json
+D:\repos\HospitalManagementDAL\bin\Debug\net8.0\HospitalManagementDAL.dll
+D:\repos\HospitalManagementDAL\bin\Debug\net8.0\HospitalManagementDAL.pdb
+D:\repos\HospitalManagementDAL\obj\Debug\net8.0\HospitalManagementDAL.csproj.AssemblyReference.cache
+D:\repos\HospitalManagementDAL\obj\Debug\net8.0\HospitalManagementDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\HospitalManagementDAL\obj\Debug\net8.0\HospitalManagementDAL.AssemblyInfoInputs.cache
+D:\repos\HospitalManagementDAL\obj\Debug\net8.0\HospitalManagementDAL.AssemblyInfo.cs
+D:\repos\HospitalManagementDAL\obj\Debug\net8.0\HospitalManagementDAL.csproj.CoreCompileInputs.cache
+D:\repos\HospitalManagementDAL\obj\Debug\net8.0\HospitalManagementDAL.dll
+D:\repos\HospitalManagementDAL\obj\Debug\net8.0\refint\HospitalManagementDAL.dll
+D:\repos\HospitalManagementDAL\obj\Debug\net8.0\HospitalManagementDAL.pdb
+D:\repos\HospitalManagementDAL\obj\Debug\net8.0\ref\HospitalManagementDAL.dll

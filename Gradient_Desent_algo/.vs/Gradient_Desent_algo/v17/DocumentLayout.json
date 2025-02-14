@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Gradient_Desent_algo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD51972-8FBE-4565-AAD8-D4D2425D2B54}|Gradient_Desent_algo\\Gradient_Desent_algo.pyproj|D:\\repos\\Gradient_Desent_algo\\Gradient_Desent_algo\\Gradient_Desent_algo.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2CD51972-8FBE-4565-AAD8-D4D2425D2B54}|Gradient_Desent_algo\\Gradient_Desent_algo.pyproj|solutionrelative:Gradient_Desent_algo\\Gradient_Desent_algo.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gradient_Desent_algo.py",
+              "DocumentMoniker": "D:\\repos\\Gradient_Desent_algo\\Gradient_Desent_algo\\Gradient_Desent_algo.py",
+              "RelativeDocumentMoniker": "Gradient_Desent_algo\\Gradient_Desent_algo.py",
+              "ToolTip": "D:\\repos\\Gradient_Desent_algo\\Gradient_Desent_algo\\Gradient_Desent_algo.py",
+              "RelativeToolTip": "Gradient_Desent_algo\\Gradient_Desent_algo.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-02T12:20:24.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

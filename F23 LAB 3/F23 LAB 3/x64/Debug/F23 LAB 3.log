@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  TicTac_Toe.cpp
+C:\Users\Administrator\source\repos\F23 LAB 3\F23 LAB 3\TicTac_Toe.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  F23 LAB 3.vcxproj -> C:\Users\Administrator\source\repos\F23 LAB 3\x64\Debug\F23 LAB 3.exe
