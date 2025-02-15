@@ -1,0 +1,52 @@
+﻿@model lab_06_web.Models.Respositories.CartItemViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update Cart Item</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container my-5">
+        <h1 class="text-center mb-4">Update Cart Item</h1>
+
+        <!-- Form to update quantity -->
+        <form asp-action="UpdateQuantity" method="post">
+            <!-- Hidden fields to pass the cart ID and other relevant data -->
+            <input type="hidden" name="CartId" value="@Model.CartId" />
+            <input type="hidden" name="UserId" value="@Model.UserId" />
+            <input type="hidden" name="ItemId" value="@Model.ItemId" />
+
+            <!-- Item Information Section -->
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">@Model.ItemName</h5>
+                    <p class="card-text"><strong>Description:</strong> @Model.Description</p>
+                    <p class="card-text"><strong>Price:</strong> $@Model.Price.ToString("0.00")</p>
+                    <p class="card-text"><strong>Current Quantity:</strong> @Model.Quantity</p>
+                </div>
+            </div>
+
+            <!-- Update Quantity Section -->
+            <div class="mb-3">
+                <label for="Quantity" class="form-label">New Quantity</label>
+                <input type="number" class="form-control" id="Quantity" name="Quantity" value="@Model.Quantity" min="1" required />
+            </div>
+
+            <!-- Submit Button -->
+            <div class="text-center">
+                <button type="submit" class="btn btn-success btn-lg">Update Quantity</button>
+            </div>
+        </form>
+
+        <!-- Back to Cart Button -->
+        <div class="text-center mt-4">
+            <a href="@Url.Action("DisplayCart", "Cart")" class="btn btn-secondary">Back to Cart</a>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

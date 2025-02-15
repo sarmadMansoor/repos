@@ -1,0 +1,444 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\lab_06_web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\views\\cart\\displaycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\views\\cart\\displaycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\models\\respositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\models\\respositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\views\\menu\\menufordelivery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\views\\menu\\menufordelivery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\controllers\\welcomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\controllers\\welcomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\controllers\\userdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\controllers\\userdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\models\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\models\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\models\\respositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\models\\respositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\views\\welcome\\landingpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\views\\welcome\\landingpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\views\\welcome\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\views\\welcome\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\views\\confirmation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\views\\confirmation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\controllers\\confirmationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\controllers\\confirmationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\models\\respositories\\reservationrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\models\\respositories\\reservationrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\models\\respositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\models\\respositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\views\\userdetail\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\views\\userdetail\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|d:\\repos\\lab_06_web\\lab_06_web\\models\\respositories\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B87C9-EDAE-4974-A8A4-9435130191C1}|lab_06_web\\lab_06_web.csproj|solutionrelative:lab_06_web\\models\\respositories\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayCart.cshtml",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\Cart\\DisplayCart.cshtml",
+              "RelativeDocumentMoniker": "lab_06_web\\Views\\Cart\\DisplayCart.cshtml",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\Cart\\DisplayCart.cshtml",
+              "RelativeToolTip": "lab_06_web\\Views\\Cart\\DisplayCart.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T05:31:25.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Respositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Models\\Respositories\\CartRepository.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Respositories\\CartRepository.cs",
+              "RelativeToolTip": "lab_06_web\\Models\\Respositories\\CartRepository.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwL0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:31:23.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuForDelivery.cshtml",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\Menu\\MenuForDelivery.cshtml",
+              "RelativeDocumentMoniker": "lab_06_web\\Views\\Menu\\MenuForDelivery.cshtml",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\Menu\\MenuForDelivery.cshtml",
+              "RelativeToolTip": "lab_06_web\\Views\\Menu\\MenuForDelivery.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T11:22:00.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Models\\Cart.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Cart.cs",
+              "RelativeToolTip": "lab_06_web\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:11:42.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lab_06_web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:45:59.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Controllers\\CartController.cs",
+              "RelativeToolTip": "lab_06_web\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:37:21.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "lab_06_web\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:18:16.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WelcomeController.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Controllers\\WelcomeController.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Controllers\\WelcomeController.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Controllers\\WelcomeController.cs",
+              "RelativeToolTip": "lab_06_web\\Controllers\\WelcomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:44:36.688Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab_06_web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "lab_06_web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T07:46:04.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Interfaces\\IUserServices.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Models\\Interfaces\\IUserServices.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Interfaces\\IUserServices.cs",
+              "RelativeToolTip": "lab_06_web\\Models\\Interfaces\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:14:00.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Respositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Models\\Respositories\\UserRepository.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Respositories\\UserRepository.cs",
+              "RelativeToolTip": "lab_06_web\\Models\\Respositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:14:37.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Program.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Program.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Program.cs",
+              "RelativeToolTip": "lab_06_web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:20:16.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "lab_06_web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "lab_06_web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T12:09:24.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDetailController.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Controllers\\UserDetailController.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Controllers\\UserDetailController.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Controllers\\UserDetailController.cs",
+              "RelativeToolTip": "lab_06_web\\Controllers\\UserDetailController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:17:24.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LandingPage.cshtml",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\Welcome\\LandingPage.cshtml",
+              "RelativeDocumentMoniker": "lab_06_web\\Views\\Welcome\\LandingPage.cshtml",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\Welcome\\LandingPage.cshtml",
+              "RelativeToolTip": "lab_06_web\\Views\\Welcome\\LandingPage.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T11:44:44.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\Welcome\\Login.cshtml",
+              "RelativeDocumentMoniker": "lab_06_web\\Views\\Welcome\\Login.cshtml",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\Welcome\\Login.cshtml",
+              "RelativeToolTip": "lab_06_web\\Views\\Welcome\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T11:59:58.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\Confirmation\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab_06_web\\Views\\Confirmation\\Index.cshtml",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\Confirmation\\Index.cshtml",
+              "RelativeToolTip": "lab_06_web\\Views\\Confirmation\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T11:46:09.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Controllers\\ReservationController.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "lab_06_web\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:41:14.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConfirmationController.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Controllers\\ConfirmationController.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Controllers\\ConfirmationController.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Controllers\\ConfirmationController.cs",
+              "RelativeToolTip": "lab_06_web\\Controllers\\ConfirmationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:58:37.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\Reservation\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab_06_web\\Views\\Reservation\\Index.cshtml",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\Reservation\\Index.cshtml",
+              "RelativeToolTip": "lab_06_web\\Views\\Reservation\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T11:42:26.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReservationRespository.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Respositories\\ReservationRespository.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Models\\Respositories\\ReservationRespository.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Respositories\\ReservationRespository.cs",
+              "RelativeToolTip": "lab_06_web\\Models\\Respositories\\ReservationRespository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwGQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:56:11.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Models\\Reservation.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Reservation.cs",
+              "RelativeToolTip": "lab_06_web\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:42:53.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Models\\Menu.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Menu.cs",
+              "RelativeToolTip": "lab_06_web\\Models\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:33:39.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MenuRepository.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Respositories\\MenuRepository.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Models\\Respositories\\MenuRepository.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Respositories\\MenuRepository.cs",
+              "RelativeToolTip": "lab_06_web\\Models\\Respositories\\MenuRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:32:33.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\UserDetail\\Details.cshtml",
+              "RelativeDocumentMoniker": "lab_06_web\\Views\\UserDetail\\Details.cshtml",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Views\\UserDetail\\Details.cshtml",
+              "RelativeToolTip": "lab_06_web\\Views\\UserDetail\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwB4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T07:38:43.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CartItemViewModel.cs",
+              "DocumentMoniker": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Respositories\\CartItemViewModel.cs",
+              "RelativeDocumentMoniker": "lab_06_web\\Models\\Respositories\\CartItemViewModel.cs",
+              "ToolTip": "D:\\repos\\lab_06_web\\lab_06_web\\Models\\Respositories\\CartItemViewModel.cs",
+              "RelativeToolTip": "lab_06_web\\Models\\Respositories\\CartItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:16:00.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿  Array.cpp
+  Matrix.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\Administrator\source\repos\MATRIX\MATRIX\Array.cpp(130): warning C4715: 'Array::getSet': not all control paths return a value
+  MATRIX.vcxproj -> C:\Users\Administrator\source\repos\MATRIX\x64\Debug\MATRIX.exe

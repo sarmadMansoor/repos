@@ -1,0 +1,33 @@
+﻿<h1>Edit the User</h1>
+
+<form method="post" action="/Account/EditUser">
+    <label for="Email">Enter the Email:</label>
+    <input id="Email" type="email" name="email" />
+
+    <label for="Name">Enter the Name :</label>
+    <input id="Name" type="text" name="name" />
+
+    <label for="password">Enter the Password :</label>
+    <input id="password" type="password" name="password" />
+
+    <input type="submit" value="Submit" />
+</form>
+
+<br />
+<br />
+
+@if (ViewBag.Message != null)
+{
+    <p><strong>@ViewBag.Message</strong></p>
+}
+
+@if (ViewBag.User != null)
+{
+    <h2>User Details</h2>
+    <br />
+    <p><strong>ID:</strong> @ViewBag.User.Id</p>
+    <p><strong>Name:</strong> @ViewBag.User.Name</p>
+    <p><strong>Email:</strong> @ViewBag.User.Email</p>
+    <p><strong>Created Date:</strong> @ViewBag.User.CreatedDate.ToString("yyyy-MM-dd hh:mm:ss tt")</p>
+}
+    

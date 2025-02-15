@@ -1,0 +1,63 @@
+﻿flex-box
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+        .flex-container {
+            /* div ka default behaviour block hota hai lekin flex use krnay say woh in-line ban gaya */
+            display: flex;
+            flex-direction: row;
+            /* flex-direction: row-reverse; */
+            /* flex-direction: column-reverse; */
+            /* flex-direction: column; */
+            background-color: aquamarine;
+            /* flex-wrap: nowrap; */
+            flex-wrap: wrap;
+            /* flex-wrap: wrap-reverse; */
+            /* horizontal space--justify content */
+            /* justify-content: center; */
+            /* justify-content: space-around; */
+            /* justify-content: space-between; */
+            /* text-align: center; */
+            /* align -items---vertical space */
+            /* align-items-center --blkl center may ajaye ga apnay div may  */
+            /* align-items: center; */
+            /* align-items: flex-end; */
+            /* align-items: stretch; */
+            /* align-items: flex-start; */
+            /* align content */
+            /* align-content: space-between; */
+            /* align-content: space-evenly; */
+            align-content: space-around;
+            /* flex-grow */
+            height: 400px;
+        }
+
+        .flex-child {
+            background-color: rgb(98, 30, 161);
+            margin: 20px;
+            padding: 20px;
+            width: 200px;
+        }
+    </style>
+</head>
+<body>
+    <div class="flex-container">
+        <div class="flex-child">1</div>
+        <div class="flex-child">2</div>
+        <div class="flex-child">3</div>
+        <div class="flex-child">4</div>
+        <div class="flex-child">5</div>
+        <div class="flex-child">6</div>
+        <div class="flex-child">7</div>
+        <div class="flex-child">8</div>
+        <div class="flex-child">9</div>
+        <div class="flex-child">10</div>
+        <div class="flex-child">11</div>
+        <div class="flex-child">12</div>
+    </div>
+</body>
+</html>

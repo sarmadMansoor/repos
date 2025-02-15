@@ -1,0 +1,28 @@
+﻿<h2>See User Detail</h2>
+<form method="post" action="/Account/UserDetails">
+    <label for="email">Email: </label>
+    <input id="email" type="email" name="email" />
+
+    <label for="password">Password: </label>
+    <input id="password" type="password" name="password" />
+    <input type="submit" value="Submit" />
+</form>
+
+<br />
+<br />
+
+@if (ViewBag.Message != null)
+{
+    <h2>User Details</h2>
+    <br />
+    <p>@ViewBag.Message</p>
+}
+else if (ViewBag.User != null)
+{
+    <h2>User Details</h2>
+    <br />
+    <p><strong>ID:</strong> @ViewBag.User.Id</p>
+    <p><strong>Name:</strong> @ViewBag.User.Name</p>
+    <p><strong>Email:</strong> @ViewBag.User.Email</p>
+    <p><strong>Created Date:</strong> @ViewBag.User.CreatedDate.ToString("yyyy-MM-dd hh:mm:ss tt")</p>
+}

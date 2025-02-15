@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\lab_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|c:\\users\\administrator\\source\\repos\\lab_9\\lab_9\\models\\pharmacyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|solutionrelative:lab_9\\models\\pharmacyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|c:\\users\\administrator\\source\\repos\\lab_9\\lab_9\\models\\pharmacyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|solutionrelative:lab_9\\models\\pharmacyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|c:\\users\\administrator\\source\\repos\\lab_9\\lab_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|solutionrelative:lab_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|c:\\users\\administrator\\source\\repos\\lab_9\\lab_9\\controllers\\pharmacycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|solutionrelative:lab_9\\controllers\\pharmacycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|c:\\users\\administrator\\source\\repos\\lab_9\\lab_9\\models\\ipharmacyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|solutionrelative:lab_9\\models\\ipharmacyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|c:\\users\\administrator\\source\\repos\\lab_9\\lab_9\\views\\pharmacy\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|solutionrelative:lab_9\\views\\pharmacy\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|c:\\users\\administrator\\source\\repos\\lab_9\\lab_9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|solutionrelative:lab_9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|c:\\users\\administrator\\source\\repos\\lab_9\\lab_9\\views\\pharmacy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|solutionrelative:lab_9\\views\\pharmacy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|c:\\users\\administrator\\source\\repos\\lab_9\\lab_9\\views\\pharmacy\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{000A48C9-C801-4A91-9749-F4345596CF50}|lab_9\\lab_9.csproj|solutionrelative:lab_9\\views\\pharmacy\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PharmacyController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Controllers\\PharmacyController.cs",
+              "RelativeDocumentMoniker": "lab_9\\Controllers\\PharmacyController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Controllers\\PharmacyController.cs",
+              "RelativeToolTip": "lab_9\\Controllers\\PharmacyController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:16:02.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPharmacyService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Models\\IPharmacyService.cs",
+              "RelativeDocumentMoniker": "lab_9\\Models\\IPharmacyService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Models\\IPharmacyService.cs",
+              "RelativeToolTip": "lab_9\\Models\\IPharmacyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:52:13.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PharmacyService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Models\\PharmacyService.cs",
+              "RelativeDocumentMoniker": "lab_9\\Models\\PharmacyService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Models\\PharmacyService.cs",
+              "RelativeToolTip": "lab_9\\Models\\PharmacyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:01:47.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Views\\Pharmacy\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab_9\\Views\\Pharmacy\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Views\\Pharmacy\\Index.cshtml",
+              "RelativeToolTip": "lab_9\\Views\\Pharmacy\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:17:07.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PharmacyItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Models\\PharmacyItem.cs",
+              "RelativeDocumentMoniker": "lab_9\\Models\\PharmacyItem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Models\\PharmacyItem.cs",
+              "RelativeToolTip": "lab_9\\Models\\PharmacyItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:50:09.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Program.cs",
+              "RelativeDocumentMoniker": "lab_9\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Program.cs",
+              "RelativeToolTip": "lab_9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:56:37.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Views\\Pharmacy\\Create.cshtml",
+              "RelativeDocumentMoniker": "lab_9\\Views\\Pharmacy\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Views\\Pharmacy\\Create.cshtml",
+              "RelativeToolTip": "lab_9\\Views\\Pharmacy\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:18:09.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lab_9\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lab_9\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:22:01.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Views\\Pharmacy\\Detail.cshtml",
+              "RelativeDocumentMoniker": "lab_9\\Views\\Pharmacy\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\lab_9\\lab_9\\Views\\Pharmacy\\Detail.cshtml",
+              "RelativeToolTip": "lab_9\\Views\\Pharmacy\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:18:37.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

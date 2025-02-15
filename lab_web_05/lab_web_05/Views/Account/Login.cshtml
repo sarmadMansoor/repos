@@ -1,0 +1,84 @@
+﻿<style>
+    .login-container {
+        font-family: 'Arial', sans-serif;
+        background-color: #f4f4f9;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+
+    .login-form {
+        background-color: #ffffff;
+        padding: 30px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .form-header {
+        color: #333;
+        text-align: center;
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .form-label {
+        font-size: 14px;
+        color: #555;
+        margin-bottom: 5px;
+    }
+
+    .form-input {
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        margin-bottom: 15px;
+        width: 100%;
+    }
+
+    .submit-button {
+        background-color: #007bff;
+        color: white;
+        border: none;
+        padding: 10px;
+        font-size: 16px;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+    .submit-button:hover {
+        background-color: #0056b3;
+    }
+
+    .message {
+        text-align: center;
+        font-size: 16px;
+        color: #d9534f;
+        margin-top: 20px;
+    }
+</style>
+
+<div class="login-container">
+    <form class="login-form" method="post" action="/Account/Login">
+        <h2 class="form-header">Login</h2>
+
+        <label class="form-label" for="email">Email: </label>
+        <input class="form-input" id="email" type="email" name="email" value="@ViewBag.Email" />
+
+        <label class="form-label" for="password">Password: </label>
+        <input class="form-input" id="password" type="password" name="password" />
+
+        <input class="submit-button" type="submit" value="Submit" />
+    </form>
+
+    <div class="message">
+        <h2>@ViewBag.Message</h2>
+    </div>
+</div>

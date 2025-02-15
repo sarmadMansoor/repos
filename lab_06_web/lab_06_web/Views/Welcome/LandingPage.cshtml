@@ -1,0 +1,70 @@
+﻿ @{
+    ViewBag.Title = "Welcome";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/Content/site.css"> <!-- Optional CSS styling -->
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Our Restaurant!</h1>
+        <p>Please choose an option:</p>
+
+        <div class="options">
+            <a asp-controller="Menu" asp-action="MenuForDelivery" class="btn btn-primary">Delivery</a>
+            <a href="@Url.Action("index", "Reservation")" class="btn btn-success">Dine-in Reservation</a>
+        </div>
+    </div>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .options {
+            margin-top: 20px;
+        }
+        .btn {
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            color: white;
+            margin: 5px;
+            display: inline-block;
+        }
+        .btn-primary {
+            background-color: #007bff;
+        }
+        .btn-success {
+            background-color: #28a745;
+        }
+        .btn:hover {
+            opacity: 0.9;
+        }
+    </style>
+</body>
+</html>
+
+
+
+    

@@ -1,0 +1,13 @@
+﻿<h2>Delete the User</h2>
+
+<form method="post" action="/Account/DeleteUser">
+    <label for="email">Enter the Email:</label>
+    <input id="email" type="email" name="email" required />
+
+    <input type="submit" value="Submit" />
+</form>
+
+@if (@Model != null)
+{
+    <p style="color: green;">@Model</p>
+}
