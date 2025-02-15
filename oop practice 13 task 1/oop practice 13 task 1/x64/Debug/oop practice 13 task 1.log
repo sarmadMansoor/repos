@@ -1,0 +1,7 @@
+﻿  Customer.cpp
+  Hacker.cpp
+  Source.cpp
+  String.cpp
+C:\Users\Administrator\source\repos\oop practice 13 task 1\oop practice 13 task 1\String.cpp(706,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  oop practice 13 task 1.vcxproj -> C:\Users\Administrator\source\repos\oop practice 13 task 1\x64\Debug\oop practice 13 task 1.exe

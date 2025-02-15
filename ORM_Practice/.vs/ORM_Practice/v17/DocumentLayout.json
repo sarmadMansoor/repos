@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\ORM_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFA34E1-5237-4D6B-8AF2-EA97247D269E}|ORM_Practice\\ORM_Practice.csproj|c:\\users\\administrator\\source\\repos\\orm_practice\\orm_practice\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFA34E1-5237-4D6B-8AF2-EA97247D269E}|ORM_Practice\\ORM_Practice.csproj|solutionrelative:orm_practice\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFA34E1-5237-4D6B-8AF2-EA97247D269E}|ORM_Practice\\ORM_Practice.csproj|c:\\users\\administrator\\source\\repos\\orm_practice\\orm_practice\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFA34E1-5237-4D6B-8AF2-EA97247D269E}|ORM_Practice\\ORM_Practice.csproj|solutionrelative:orm_practice\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFA34E1-5237-4D6B-8AF2-EA97247D269E}|ORM_Practice\\ORM_Practice.csproj|c:\\users\\administrator\\source\\repos\\orm_practice\\orm_practice\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFA34E1-5237-4D6B-8AF2-EA97247D269E}|ORM_Practice\\ORM_Practice.csproj|solutionrelative:orm_practice\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFA34E1-5237-4D6B-8AF2-EA97247D269E}|ORM_Practice\\ORM_Practice.csproj|c:\\users\\administrator\\source\\repos\\orm_practice\\orm_practice\\myapplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFA34E1-5237-4D6B-8AF2-EA97247D269E}|ORM_Practice\\ORM_Practice.csproj|solutionrelative:orm_practice\\myapplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFA34E1-5237-4D6B-8AF2-EA97247D269E}|ORM_Practice\\ORM_Practice.csproj|c:\\users\\administrator\\source\\repos\\orm_practice\\orm_practice\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFA34E1-5237-4D6B-8AF2-EA97247D269E}|ORM_Practice\\ORM_Practice.csproj|solutionrelative:orm_practice\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFA34E1-5237-4D6B-8AF2-EA97247D269E}|ORM_Practice\\ORM_Practice.csproj|c:\\users\\administrator\\source\\repos\\orm_practice\\orm_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFA34E1-5237-4D6B-8AF2-EA97247D269E}|ORM_Practice\\ORM_Practice.csproj|solutionrelative:orm_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFA34E1-5237-4D6B-8AF2-EA97247D269E}|ORM_Practice\\ORM_Practice.csproj|c:\\users\\administrator\\source\\repos\\orm_practice\\orm_practice\\orm_practice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BFA34E1-5237-4D6B-8AF2-EA97247D269E}|ORM_Practice\\ORM_Practice.csproj|solutionrelative:orm_practice\\orm_practice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ORM_Practice\\ORM_Practice\\Program.cs",
+              "RelativeDocumentMoniker": "ORM_Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ORM_Practice\\ORM_Practice\\Program.cs",
+              "RelativeToolTip": "ORM_Practice\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:26:41.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ORM_Practice\\ORM_Practice\\MyApplicationContext.cs",
+              "RelativeDocumentMoniker": "ORM_Practice\\MyApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ORM_Practice\\ORM_Practice\\MyApplicationContext.cs",
+              "RelativeToolTip": "ORM_Practice\\MyApplicationContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:43:58.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ORM_Practice\\ORM_Practice\\Person.cs",
+              "RelativeDocumentMoniker": "ORM_Practice\\Person.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ORM_Practice\\ORM_Practice\\Person.cs",
+              "RelativeToolTip": "ORM_Practice\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:39:54.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tire.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ORM_Practice\\ORM_Practice\\Tire.cs",
+              "RelativeDocumentMoniker": "ORM_Practice\\Tire.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ORM_Practice\\ORM_Practice\\Tire.cs",
+              "RelativeToolTip": "ORM_Practice\\Tire.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:39:16.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ORM_Practice\\ORM_Practice\\Car.cs",
+              "RelativeDocumentMoniker": "ORM_Practice\\Car.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ORM_Practice\\ORM_Practice\\Car.cs",
+              "RelativeToolTip": "ORM_Practice\\Car.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:38:31.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ORM_Practice\\ORM_Practice\\Engine.cs",
+              "RelativeDocumentMoniker": "ORM_Practice\\Engine.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ORM_Practice\\ORM_Practice\\Engine.cs",
+              "RelativeToolTip": "ORM_Practice\\Engine.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:37:49.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ORM_Practice.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ORM_Practice\\ORM_Practice\\ORM_Practice.csproj",
+              "RelativeDocumentMoniker": "ORM_Practice\\ORM_Practice.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ORM_Practice\\ORM_Practice\\ORM_Practice.csproj",
+              "RelativeToolTip": "ORM_Practice\\ORM_Practice.csproj",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-15T12:37:21.845Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

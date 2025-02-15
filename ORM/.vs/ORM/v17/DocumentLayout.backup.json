@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\ORM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4519E99D-F846-4D08-91A8-1BE8F58B84BD}|ORM\\ORM.csproj|c:\\users\\administrator\\source\\repos\\orm\\orm\\models\\myapplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4519E99D-F846-4D08-91A8-1BE8F58B84BD}|ORM\\ORM.csproj|solutionrelative:orm\\models\\myapplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4519E99D-F846-4D08-91A8-1BE8F58B84BD}|ORM\\ORM.csproj|c:\\users\\administrator\\source\\repos\\orm\\orm\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4519E99D-F846-4D08-91A8-1BE8F58B84BD}|ORM\\ORM.csproj|solutionrelative:orm\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4519E99D-F846-4D08-91A8-1BE8F58B84BD}|ORM\\ORM.csproj|c:\\users\\administrator\\source\\repos\\orm\\orm\\orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4519E99D-F846-4D08-91A8-1BE8F58B84BD}|ORM\\ORM.csproj|solutionrelative:orm\\orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ORM.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ORM\\ORM\\ORM.csproj",
+              "RelativeDocumentMoniker": "ORM\\ORM.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ORM\\ORM\\ORM.csproj*",
+              "RelativeToolTip": "ORM\\ORM.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T13:50:00.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ORM\\ORM\\Models\\MyApplicationContext.cs",
+              "RelativeDocumentMoniker": "ORM\\Models\\MyApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ORM\\ORM\\Models\\MyApplicationContext.cs*",
+              "RelativeToolTip": "ORM\\Models\\MyApplicationContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:27:16.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ORM\\ORM\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ORM\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ORM\\ORM\\Models\\User.cs",
+              "RelativeToolTip": "ORM\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:25:34.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

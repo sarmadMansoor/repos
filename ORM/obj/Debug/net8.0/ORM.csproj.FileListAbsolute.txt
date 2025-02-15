@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\ORM\obj\Debug\net8.0\ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ORM\obj\Debug\net8.0\ORM.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ORM\obj\Debug\net8.0\ORM.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ORM\obj\Debug\net8.0\ORM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ORM\obj\Debug\net8.0\ORM.csproj.AssemblyReference.cache

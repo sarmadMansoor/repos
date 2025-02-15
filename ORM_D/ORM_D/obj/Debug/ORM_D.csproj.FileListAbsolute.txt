@@ -1,0 +1,7 @@
+D:\repos\ORM_D\ORM_D\bin\Debug\ORM_D.exe.config
+D:\repos\ORM_D\ORM_D\bin\Debug\ORM_D.exe
+D:\repos\ORM_D\ORM_D\bin\Debug\ORM_D.pdb
+D:\repos\ORM_D\ORM_D\obj\Debug\ORM_D.csproj.AssemblyReference.cache
+D:\repos\ORM_D\ORM_D\obj\Debug\ORM_D.csproj.CoreCompileInputs.cache
+D:\repos\ORM_D\ORM_D\obj\Debug\ORM_D.exe
+D:\repos\ORM_D\ORM_D\obj\Debug\ORM_D.pdb
