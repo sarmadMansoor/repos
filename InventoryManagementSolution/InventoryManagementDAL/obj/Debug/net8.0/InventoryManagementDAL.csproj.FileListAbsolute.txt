@@ -1,0 +1,14 @@
+D:\repos\InventoryManagementSolution\InventoryManagementDAL\bin\Debug\net8.0\InventoryManagementDAL.deps.json
+D:\repos\InventoryManagementSolution\InventoryManagementDAL\bin\Debug\net8.0\InventoryManagementDAL.runtimeconfig.json
+D:\repos\InventoryManagementSolution\InventoryManagementDAL\bin\Debug\net8.0\InventoryManagementDAL.dll
+D:\repos\InventoryManagementSolution\InventoryManagementDAL\bin\Debug\net8.0\InventoryManagementDAL.pdb
+D:\repos\InventoryManagementSolution\InventoryManagementDAL\obj\Debug\net8.0\InventoryManagementDAL.csproj.AssemblyReference.cache
+D:\repos\InventoryManagementSolution\InventoryManagementDAL\obj\Debug\net8.0\InventoryManagementDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\InventoryManagementSolution\InventoryManagementDAL\obj\Debug\net8.0\InventoryManagementDAL.AssemblyInfoInputs.cache
+D:\repos\InventoryManagementSolution\InventoryManagementDAL\obj\Debug\net8.0\InventoryManagementDAL.AssemblyInfo.cs
+D:\repos\InventoryManagementSolution\InventoryManagementDAL\obj\Debug\net8.0\InventoryManagementDAL.csproj.CoreCompileInputs.cache
+D:\repos\InventoryManagementSolution\InventoryManagementDAL\obj\Debug\net8.0\InventoryManagementDAL.dll
+D:\repos\InventoryManagementSolution\InventoryManagementDAL\obj\Debug\net8.0\refint\InventoryManagementDAL.dll
+D:\repos\InventoryManagementSolution\InventoryManagementDAL\obj\Debug\net8.0\InventoryManagementDAL.pdb
+D:\repos\InventoryManagementSolution\InventoryManagementDAL\obj\Debug\net8.0\InventoryManagementDAL.genruntimeconfig.cache
+D:\repos\InventoryManagementSolution\InventoryManagementDAL\obj\Debug\net8.0\ref\InventoryManagementDAL.dll

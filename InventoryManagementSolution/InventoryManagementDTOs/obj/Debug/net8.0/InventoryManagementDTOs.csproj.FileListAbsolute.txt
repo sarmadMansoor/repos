@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\InventoryManagementSolution\InventoryManagementDTOs\bin\Debug\net8.0\InventoryManagementDTOs.deps.json
+C:\Users\Administrator\source\repos\InventoryManagementSolution\InventoryManagementDTOs\bin\Debug\net8.0\InventoryManagementDTOs.runtimeconfig.json
+C:\Users\Administrator\source\repos\InventoryManagementSolution\InventoryManagementDTOs\bin\Debug\net8.0\InventoryManagementDTOs.dll
+C:\Users\Administrator\source\repos\InventoryManagementSolution\InventoryManagementDTOs\bin\Debug\net8.0\InventoryManagementDTOs.pdb
+C:\Users\Administrator\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.dll
+C:\Users\Administrator\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\refint\InventoryManagementDTOs.dll
+C:\Users\Administrator\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.pdb
+C:\Users\Administrator\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\ref\InventoryManagementDTOs.dll

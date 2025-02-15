@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\InventoryManagementSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06F62E40-0945-45CA-BB08-F4CB777DBBD2}|InventoryManagementDAL\\InventoryManagementDAL.csproj|d:\\repos\\inventorymanagementsolution\\inventorymanagementdal\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F62E40-0945-45CA-BB08-F4CB777DBBD2}|InventoryManagementDAL\\InventoryManagementDAL.csproj|solutionrelative:inventorymanagementdal\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F62E40-0945-45CA-BB08-F4CB777DBBD2}|InventoryManagementDAL\\InventoryManagementDAL.csproj|d:\\repos\\inventorymanagementsolution\\inventorymanagementdal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F62E40-0945-45CA-BB08-F4CB777DBBD2}|InventoryManagementDAL\\InventoryManagementDAL.csproj|solutionrelative:inventorymanagementdal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F62E40-0945-45CA-BB08-F4CB777DBBD2}|InventoryManagementDAL\\InventoryManagementDAL.csproj|d:\\repos\\inventorymanagementsolution\\inventorymanagementdal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F62E40-0945-45CA-BB08-F4CB777DBBD2}|InventoryManagementDAL\\InventoryManagementDAL.csproj|solutionrelative:inventorymanagementdal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F62E40-0945-45CA-BB08-F4CB777DBBD2}|InventoryManagementDAL\\InventoryManagementDAL.csproj|d:\\repos\\inventorymanagementsolution\\inventorymanagementdal\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F62E40-0945-45CA-BB08-F4CB777DBBD2}|InventoryManagementDAL\\InventoryManagementDAL.csproj|solutionrelative:inventorymanagementdal\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8713E0-E27C-41F2-8519-F7C25C684670}|InventoryManagementSolution\\InventoryManagementSolution.csproj|d:\\repos\\inventorymanagementsolution\\inventorymanagementsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8713E0-E27C-41F2-8519-F7C25C684670}|InventoryManagementSolution\\InventoryManagementSolution.csproj|solutionrelative:inventorymanagementsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\Temp\\qlb30yih..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\Temp\\qlb30yih..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\Temp\\qlb30yih..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\repos\\InventoryManagementSolution\\InventoryManagementDAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryManagementDAL\\AppDbContext.cs",
+              "ToolTip": "D:\\repos\\InventoryManagementSolution\\InventoryManagementDAL\\AppDbContext.cs",
+              "RelativeToolTip": "InventoryManagementDAL\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:56:36.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryTransaction.cs",
+              "DocumentMoniker": "D:\\repos\\InventoryManagementSolution\\InventoryManagementDAL\\InventoryTransaction.cs",
+              "RelativeDocumentMoniker": "InventoryManagementDAL\\InventoryTransaction.cs",
+              "ToolTip": "D:\\repos\\InventoryManagementSolution\\InventoryManagementDAL\\InventoryTransaction.cs",
+              "RelativeToolTip": "InventoryManagementDAL\\InventoryTransaction.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:31:19.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\repos\\InventoryManagementSolution\\InventoryManagementDAL\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryManagementDAL\\Product.cs",
+              "ToolTip": "D:\\repos\\InventoryManagementSolution\\InventoryManagementDAL\\Product.cs",
+              "RelativeToolTip": "InventoryManagementDAL\\Product.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:30:16.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\repos\\InventoryManagementSolution\\InventoryManagementDAL\\Supplier.cs",
+              "RelativeDocumentMoniker": "InventoryManagementDAL\\Supplier.cs",
+              "ToolTip": "D:\\repos\\InventoryManagementSolution\\InventoryManagementDAL\\Supplier.cs",
+              "RelativeToolTip": "InventoryManagementDAL\\Supplier.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:29:31.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\qlb30yih..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-07T03:14:56.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\InventoryManagementSolution\\InventoryManagementSolution\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSolution\\Program.cs",
+              "ToolTip": "D:\\repos\\InventoryManagementSolution\\InventoryManagementSolution\\Program.cs",
+              "RelativeToolTip": "InventoryManagementSolution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:12:15.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
