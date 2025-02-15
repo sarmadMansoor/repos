@@ -1,7 +1,0 @@
-﻿  Source.cpp
-C:\Users\Administrator\source\repos\INHERITANCE\INHERITANCE\Car.h(18,3): error C2065: 'cout': undeclared identifier
-C:\Users\Administrator\source\repos\INHERITANCE\INHERITANCE\Car.h(18,20): error C2065: 'endl': undeclared identifier
-  Car.cpp
-C:\Users\Administrator\source\repos\INHERITANCE\INHERITANCE\Car.h(18,3): error C2065: 'cout': undeclared identifier
-C:\Users\Administrator\source\repos\INHERITANCE\INHERITANCE\Car.h(18,20): error C2065: 'endl': undeclared identifier
-  Generating Code...
