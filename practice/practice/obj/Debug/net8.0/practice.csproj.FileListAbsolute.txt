@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\practice\practice\obj\Debug\net8.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\practice\practice\obj\Debug\net8.0\practice.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\practice\practice\obj\Debug\net8.0\practice.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\practice\practice\obj\Debug\net8.0\practice.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\practice\practice\obj\Debug\net8.0\practice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\practice\practice\obj\Debug\net8.0\practice.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\practice\practice\obj\Debug\net8.0\practice.RazorAssemblyInfo.cs

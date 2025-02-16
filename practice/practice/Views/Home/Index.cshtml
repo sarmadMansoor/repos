@@ -1,0 +1,89 @@
+﻿@* <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+        #parent {
+          border: 1px solid black;
+          padding: 20px;
+          width: 50%;
+          height: 1400px;
+          position: relative;
+        }
+        #one {
+          width: 100px;
+          height: 100px;
+          display: inline-block;
+          background-color: olive;
+        }
+        #two {
+          /* width: 100px;
+          height: 100px;
+          position: relative;
+          /* yeh apni jagah nhi chorta , neechay chala gaya kyo k top 250 rakha lekin ooper uski jagah aisay hi rhi */
+          /*left: 50px;
+          top: 250px;
+          display: inline-block;
+          background-color: rgb(27, 102, 136); */
+
+          /* absolute apni position calculate krta hai ,jagah chor deta hai ,ussay next element uski jagah ajata hai  */
+          /* width: 100px;
+          height: 100px;
+          position: absolute;
+          left: 50px;
+          top: 250px;
+          display: inline-block;
+          background-color: rgb(27, 102, 136); */
+
+          /* fixed
+          parent may heigth 1400px kr di , page may scroll bhi agaya but yeh fixed element apni hi jagah par raha page may , oopper neechay nhi hua */
+          /* width: 100px;
+          height: 100px;
+          position: fixed;
+          left: 100px;
+          bottom: 100px;
+          display: inline-block;
+          background-color: rgb(27, 102, 136); */
+
+          /* sicky
+          yeh wala apnay container k lehaz say sticky hota hai , jab scroll aata hai tu woh relative ban jaata hai */
+          width: 100px;
+          height: 100px;
+          position: sticky;
+          left: 100px;
+          bottom: 100px;
+          display: inline-block;
+          background-color: rgb(27, 102, 136);
+        }
+        #three {
+          width: 100px;
+          height: 100px;
+          display: inline-block;
+          background-color: rgb(104, 217, 236);
+        }
+    </style>
+</head>
+<body>
+    <!-- CSS Positioning
+                      5 types:
+                      Relative,absolute,relative,fixed,sticky
+
+              Relative may apni jagah nhi chorta aur apnay element k according kaam krta hai -->
+
+    <div id="parent">
+        <div id="one"></div>
+        <div id="two"></div>
+        <div id="three"></div>
+    </div>
+
+    <!-- float and clear -->
+    <!-- float: element ka regular flow nhi rahay ga yani apni actual position say dislocate hota hai, ya tu either right par ajaye ga ya left par jiski wajah say agla regular element bhi kharaab hjatay hain , unko sahi krnay k liyay clear use hota hai  -->
+    <!-- jaisay hum chahtay hain k websitemay kuch bhi hu footer ko sabsay end par hi aana chahiyay tu hum clear use kr sktay hain -->
+
+    <img src="icons/hamburger-menu.svg" />
+    <h2>hello i am here</h2>
+</body>
+</html>
+ *@

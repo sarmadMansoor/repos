@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Administrator\source\repos\page_926\page_926\Source.cpp(211,10): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\Administrator\source\repos\page_926\page_926\Source.cpp(211,10): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\Administrator\source\repos\page_926\page_926\Source.cpp(211,27): warning C4311: 'type cast': pointer truncation from 'A *' to 'int'
+C:\Users\Administrator\source\repos\page_926\page_926\Source.cpp(211,27): warning C4302: 'type cast': truncation from 'A *' to 'int'
+  page_926.vcxproj -> C:\Users\Administrator\source\repos\page_926\x64\Debug\page_926.exe

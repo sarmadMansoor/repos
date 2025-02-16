@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Administrator\source\repos\practice Project\practice Project\Source.cpp(98,19): warning C4584: 'sum': base-class 'num' is already a base-class of 'mum'
+C:\Users\Administrator\source\repos\practice Project\practice Project\Source.cpp(46,7): message : see declaration of 'num'
+C:\Users\Administrator\source\repos\practice Project\practice Project\Source.cpp(66,7): message : see declaration of 'mum'
+  practice Project.vcxproj -> C:\Users\Administrator\source\repos\practice Project\x64\Debug\practice Project.exe
